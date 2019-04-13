@@ -1,6 +1,6 @@
 .app-store-logo, .chart0, .facebook-ico, .gopay-bannery-modre, .group-text, .play-store-logo, .twitter-ico
 {display:inline-block; overflow:hidden; background-repeat: no-repeat;
-    background-image:url(//www.smsdobasy.cz/html/static/main-page-content/sprite.png);}
+    background-image:url(sprite.png);}
 .app-store-logo {width: 296px; height: 88px; background-position: 67.0091% 17.5214%; background-size: 691.892%; }
 .chart0 {width: 100%; padding-bottom: 33.3%; background-position: 74.8724% 0.231481%; background-size: 426.667%; }
 .facebook-ico {width: 88px; height: 88px; background-position: 99.6939% 0.213675%; background-size: 2327.27%; border-radius: 6px;}
