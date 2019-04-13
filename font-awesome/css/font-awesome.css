@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'font-awesome';
-  src: url('https://cdn.jsdelivr.net/gh/99electronic/smsdobasy.cz/font/font-awesome.eot?1047188');
-  src: url('https://cdn.jsdelivr.net/gh/99electronic/smsdobasy.cz/font/font-awesome.eot?1047188#iefix') format('embedded-opentype'),
-       url('https://cdn.jsdelivr.net/gh/99electronic/smsdobasy.cz/font/font-awesome.woff2?1047188') format('woff2'),
-       url('https://cdn.jsdelivr.net/gh/99electronic/smsdobasy.cz/font/font-awesome.woff?1047188') format('woff'),
-       url('https://cdn.jsdelivr.net/gh/99electronic/smsdobasy.cz/font/font-awesome.ttf?1047188') format('truetype'),
-       url('https://cdn.jsdelivr.net/gh/99electronic/smsdobasy.cz/font/font-awesome.svg?1047188#font-awesome') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/99electronic/cdn.smsdobasy.cz/font/font-awesome.eot?1047188');
+  src: url('https://cdn.jsdelivr.net/gh/99electronic/cdn.smsdobasy.cz/font/font-awesome.eot?1047188#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/99electronic/cdn.smsdobasy.cz/font/font-awesome.woff2?1047188') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/99electronic/cdn.smsdobasy.cz/font/font-awesome.woff?1047188') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/99electronic/cdn.smsdobasy.cz/font/font-awesome.ttf?1047188') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/99electronic/cdn.smsdobasy.cz/font/font-awesome.svg?1047188#font-awesome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
