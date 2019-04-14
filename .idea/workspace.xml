@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/misc/licence.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/misc/tarif_list.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="licence.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/app-api/misc/licence.json">
+      <file leaf-file-name="tarif_list.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/app-api/misc/tarif_list.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="0" column="17918" lean-forward="false" selection-start-line="0" selection-start-column="17918" selection-end-line="0" selection-end-column="17918" />
+            <state relative-caret-position="92">
+              <caret line="0" column="613" lean-forward="false" selection-start-line="0" selection-start-column="613" selection-end-line="0" selection-end-column="613" />
               <folding />
             </state>
           </provider>
@@ -48,6 +47,7 @@
         <option value="$PROJECT_DIR$/app/app-api/places/place-120.json" />
         <option value="$PROJECT_DIR$/app/app-api/misc/contactus.json" />
         <option value="$PROJECT_DIR$/app/app-api/misc/licence.json" />
+        <option value="$PROJECT_DIR$/app/app-api/misc/tarif_list.json" />
       </list>
     </option>
   </component>
@@ -258,7 +258,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555220746047</updated>
       <workItem from="1555220748256" duration="736000" />
-      <workItem from="1555266731684" duration="4786000" />
+      <workItem from="1555266731684" duration="5315000" />
     </task>
     <task id="LOCAL-00001" summary="latest places update">
       <created>1555266943410</created>
@@ -271,7 +271,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5522000" />
+    <option name="totallyTimeSpent" value="6051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1343" extended-state="6" />
@@ -433,6 +433,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1025">
           <caret line="0" column="17918" lean-forward="false" selection-start-line="0" selection-start-column="17918" selection-end-line="0" selection-end-column="17918" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app-api/misc/tarif_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="0" column="613" lean-forward="false" selection-start-line="0" selection-start-column="613" selection-end-line="0" selection-end-column="613" />
           <folding />
         </state>
       </provider>
