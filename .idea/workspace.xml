@@ -2,15 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarif-1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarif-2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarif-3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarif-4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarif-5.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarif-6.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarif-7.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/misc/tarif_list.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app-api/misc/tarif_list.json" afterPath="$PROJECT_DIR$/app/app-api/tarifs/tarifs.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-100.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-110.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-120.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-130.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-140.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-150.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-160.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-170.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-180.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-190.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-200.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-210.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-220.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-230.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-240.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-250.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-260.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-270.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-280.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-290.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-300.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-310.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-320.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-330.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-340.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-350.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-70.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-80.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/headers/places/place-90.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/10.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/100.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/100.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/110.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/110.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/120.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/120.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/130.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/130.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/140.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/140.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/150.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/150.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/160.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/160.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/170.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/170.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/180.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/180.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/190.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/190.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/20.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/200.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/200.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/210.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/210.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/220.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/220.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/230.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/230.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/240.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/240.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/250.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/250.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/260.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/260.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/270.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/270.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/280.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/280.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/290.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/290.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/30.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/30.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/300.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/300.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/310.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/310.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/320.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/320.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/330.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/330.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/340.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/340.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/350.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/350.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/351.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/351.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/40.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/40.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/50.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/50.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/60.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/60.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/70.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/70.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/80.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/80.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers-small/90.jpg" afterPath="$PROJECT_DIR$/app/img/headers-small/90.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/10.jpg" afterPath="$PROJECT_DIR$/app/img/headers/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/100.jpg" afterPath="$PROJECT_DIR$/app/img/headers/100.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/110.jpg" afterPath="$PROJECT_DIR$/app/img/headers/110.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/120.jpg" afterPath="$PROJECT_DIR$/app/img/headers/120.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/130.jpg" afterPath="$PROJECT_DIR$/app/img/headers/130.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/140.jpg" afterPath="$PROJECT_DIR$/app/img/headers/140.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/150.jpg" afterPath="$PROJECT_DIR$/app/img/headers/150.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/160.jpg" afterPath="$PROJECT_DIR$/app/img/headers/160.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/170.jpg" afterPath="$PROJECT_DIR$/app/img/headers/170.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/180.jpg" afterPath="$PROJECT_DIR$/app/img/headers/180.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/190.jpg" afterPath="$PROJECT_DIR$/app/img/headers/190.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/20.jpg" afterPath="$PROJECT_DIR$/app/img/headers/20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/200.jpg" afterPath="$PROJECT_DIR$/app/img/headers/200.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/210.jpg" afterPath="$PROJECT_DIR$/app/img/headers/210.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/220.jpg" afterPath="$PROJECT_DIR$/app/img/headers/220.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/230.jpg" afterPath="$PROJECT_DIR$/app/img/headers/230.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/240.jpg" afterPath="$PROJECT_DIR$/app/img/headers/240.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/250.jpg" afterPath="$PROJECT_DIR$/app/img/headers/250.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/260.jpg" afterPath="$PROJECT_DIR$/app/img/headers/260.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/270.jpg" afterPath="$PROJECT_DIR$/app/img/headers/270.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/280.jpg" afterPath="$PROJECT_DIR$/app/img/headers/280.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/290.jpg" afterPath="$PROJECT_DIR$/app/img/headers/290.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/30.jpg" afterPath="$PROJECT_DIR$/app/img/headers/30.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/300.jpg" afterPath="$PROJECT_DIR$/app/img/headers/300.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/310.jpg" afterPath="$PROJECT_DIR$/app/img/headers/310.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/320.jpg" afterPath="$PROJECT_DIR$/app/img/headers/320.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/330.jpg" afterPath="$PROJECT_DIR$/app/img/headers/330.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/340.jpg" afterPath="$PROJECT_DIR$/app/img/headers/340.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/350.jpg" afterPath="$PROJECT_DIR$/app/img/headers/350.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/351.jpg" afterPath="$PROJECT_DIR$/app/img/headers/351.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/40.jpg" afterPath="$PROJECT_DIR$/app/img/headers/40.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/50.jpg" afterPath="$PROJECT_DIR$/app/img/headers/50.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/60.jpg" afterPath="$PROJECT_DIR$/app/img/headers/60.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/70.jpg" afterPath="$PROJECT_DIR$/app/img/headers/70.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/80.jpg" afterPath="$PROJECT_DIR$/app/img/headers/80.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/headers/90.jpg" afterPath="$PROJECT_DIR$/app/img/headers/90.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,6 +201,10 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -117,10 +219,6 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app-api" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -133,6 +231,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/img" />
       <recent name="$PROJECT_DIR$/app/app-api/tarifs" />
       <recent name="$PROJECT_DIR$/app/app-api/faqs" />
       <recent name="$PROJECT_DIR$/app" />
@@ -235,7 +334,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555220746047</updated>
       <workItem from="1555220748256" duration="736000" />
-      <workItem from="1555266731684" duration="6178000" />
+      <workItem from="1555266731684" duration="7268000" />
     </task>
     <task id="LOCAL-00001" summary="latest places update">
       <created>1555266943410</created>
@@ -248,10 +347,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6914000" />
+    <option name="totallyTimeSpent" value="8004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1343" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10683082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -392,7 +492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/headers-small/10.jpg">
+    <entry file="file://$PROJECT_DIR$/app/img/headers-small/10.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
