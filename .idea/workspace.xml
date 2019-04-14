@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/charcounter.js" afterPath="$PROJECT_DIR$/js/charcounter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/script0-v1.2.js" afterPath="$PROJECT_DIR$/js/script0-v1.2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/script1-v1.0.js" afterPath="$PROJECT_DIR$/js/script1-v1.0.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style-v1.7.css" afterPath="$PROJECT_DIR$/css/style-v1.7.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/css/animation.css" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/css/animation.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/css/font-awesome-codes.css" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/css/font-awesome-codes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/css/font-awesome-embedded.css" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/css/font-awesome-embedded.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/css/font-awesome-ie7-codes.css" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/css/font-awesome-ie7-codes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/css/font-awesome-ie7.css" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/css/font-awesome-ie7.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/font/font-awesome.eot" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/font/font-awesome.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/font/font-awesome.svg" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/font/font-awesome.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/font/font-awesome.ttf" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/font/font-awesome.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/font/font-awesome.woff" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/font/font-awesome.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome.v.1.0/font/font-awesome.woff2" afterPath="$PROJECT_DIR$/css/font-awesome.v.1.0/font/font-awesome.woff2" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -199,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555220746047</updated>
       <workItem from="1555220748256" duration="736000" />
-      <workItem from="1555266731684" duration="8483000" />
+      <workItem from="1555266731684" duration="8562000" />
     </task>
     <task id="LOCAL-00001" summary="latest places update">
       <created>1555266943410</created>
@@ -212,7 +219,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9219000" />
+    <option name="totallyTimeSpent" value="9298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1343" extended-state="6" />
