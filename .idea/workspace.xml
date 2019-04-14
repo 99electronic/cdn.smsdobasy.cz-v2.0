@@ -2,33 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-10.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-12.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-15.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-16.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-18.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-19.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-20.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-21.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-22.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-23.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-24.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-25.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-26.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-6.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-7.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-8.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs-9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app-api/faqs/faqs.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs-9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-api/faqs/faqs.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -147,6 +147,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/app-api/faqs" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
@@ -247,7 +248,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555220746047</updated>
       <workItem from="1555220748256" duration="736000" />
-      <workItem from="1555266731684" duration="3046000" />
+      <workItem from="1555266731684" duration="3178000" />
     </task>
     <task id="LOCAL-00001" summary="latest places update">
       <created>1555266943410</created>
@@ -260,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3782000" />
+    <option name="totallyTimeSpent" value="3914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1343" extended-state="6" />
