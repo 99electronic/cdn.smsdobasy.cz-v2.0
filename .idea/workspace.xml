@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app-api/faqs/faq-19.json" afterPath="$PROJECT_DIR$/app/app-api/faqs/faq-19.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app-api/faqs/faq-22.json" afterPath="$PROJECT_DIR$/app/app-api/faqs/faq-22.json" />
-    </list>
+    <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +234,7 @@
       <updated>1555220746047</updated>
       <workItem from="1555220748256" duration="736000" />
       <workItem from="1555266731684" duration="11273000" />
-      <workItem from="1555305314083" duration="1289000" />
+      <workItem from="1555305314083" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="latest places update">
       <created>1555266943410</created>
@@ -251,7 +247,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13298000" />
+    <option name="totallyTimeSpent" value="13325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="6" />
