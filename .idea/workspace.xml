@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main-page-content/css.css" afterPath="$PROJECT_DIR$/static/main-page-content/css.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main-page-content/script.js" afterPath="$PROJECT_DIR$/static/main-page-content/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main-page-content/sprite.png" afterPath="$PROJECT_DIR$/static/main-page-content/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/under-construction/src/css/responsive.css" afterPath="$PROJECT_DIR$/static/under-construction/src/css/responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/under-construction/src/css/styles.css" afterPath="$PROJECT_DIR$/static/under-construction/src/css/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/under-construction/src/img/background.jpg" afterPath="$PROJECT_DIR$/static/under-construction/src/img/background.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/under-construction/src/img/facebook-ico.png" afterPath="$PROJECT_DIR$/static/under-construction/src/img/facebook-ico.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/under-construction/src/img/logo.png" afterPath="$PROJECT_DIR$/static/under-construction/src/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/under-construction/src/img/twitter-ico.png" afterPath="$PROJECT_DIR$/static/under-construction/src/img/twitter-ico.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="761c83c1-dc82-4f34-94f6-3df1eaa2e36b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,38 +69,6 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cdn.smsdobasy.cz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cdn.smsdobasy.cz" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cdn.smsdobasy.cz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cdn.smsdobasy.cz" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main-page-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="cdn.smsdobasy.cz" />
@@ -237,7 +194,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555220746047</updated>
       <workItem from="1555220748256" duration="736000" />
-      <workItem from="1555266731684" duration="9483000" />
+      <workItem from="1555266731684" duration="10773000" />
     </task>
     <task id="LOCAL-00001" summary="latest places update">
       <created>1555266943410</created>
@@ -250,7 +207,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10219000" />
+    <option name="totallyTimeSpent" value="11509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1343" extended-state="6" />
